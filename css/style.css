@@ -157,19 +157,16 @@ section h3::after {
     color: #ddd;
 }
 .html {
-    width: 100%;
+    width: 70%;
 }
 .css {
-    width: 90%;
+    width: 60%;
 }
 .js {
-    width: 80%;
+    width: 30%;
 }
-.php {
-    width: 95%;
-}
-.reactjs {
-    width: 85%;
+.github {
+    width: 30%;
 }
 .col-4 {
     width: 25%;
